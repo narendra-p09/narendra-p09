@@ -2,7 +2,7 @@ Hi, I'm Narendra Patil 👋
 
 📊 Aspiring Data Analyst
 
-I'm a final-year BCA student passionate about transforming data into meaningful insights.
+I'm a BCA student passionate about transforming data into meaningful insights.
 
 🚀 Skills
 
