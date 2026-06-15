@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Narendra Patil 👋
 
-<!--
-**narendra-p09/narendra-p09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a final-year BCA student passionate about transforming data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+
+- SQL
+- Excel
+- Power BI
+- Python
+- Data Visualization
+- Data Analysis
+
+📂 Projects
+
+📊 Excel Dashboard
+
+- Global Superstore Sales Analysis Dashboard
+- KPI Reporting
+- Interactive Slicers
+- Business Insights
+
+📈 Power BI Dashboard
+
+- Superstore Sales Dashboard
+- DAX Measures
+- Interactive Visualizations
+- Profitability Analysis
+
+🗄 SQL Sales Analysis
+
+- Sales Performance Analysis
+- Customer Insights
+- Product Analysis
+- Regional Profitability
+
+🎯 Current Goal
+
+Preparing for Data Analyst roles and continuously improving my skills in SQL, Power BI, Excel, and Python.
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/narendra-patil-637aa8343
+- GitHub: https://github.com/narendra-p09
