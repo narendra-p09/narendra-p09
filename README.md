@@ -52,6 +52,15 @@ I recently completed my BCA and am passionate about transforming data into meani
 
 ---
 
+### 📊 Python Sales Analysis
+
+- Performed Exploratory Data Analysis (EDA) on the Superstore Sales Dataset using Python.
+- Analyzed sales, profit, products, categories, and yearly trends.
+- Created visualizations using Matplotlib.
+- Identified key business insights and performance trends.
+
+**Repository:** Python Sales Analysis
+
 ## 🌱 Currently Learning
 
 - Advanced SQL
